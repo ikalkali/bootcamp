@@ -1,10 +1,26 @@
+*{
+  margin: 0;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
 table,
 th,
 td {
+  text-align: center;
   border: 1px solid black;
   border-collapse: collapse;
   padding: 10px;
 }
-.lapan{
-  color: red;
+table ,h1{
+  margin:auto;
+  text-align: center;
+}
+h1{
+  color: goldenrod;
+}
+h3{
+  text-align: center;
+}
+th{
+  background-color: blue;
+  color: white;
 }
