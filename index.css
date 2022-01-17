@@ -5,3 +5,4 @@ td {
   border-collapse: collapse;
   padding: 10px;
 }
+tr:nth-child(even) {background-color: #dcf5ff;}
