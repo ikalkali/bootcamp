@@ -4,4 +4,10 @@ td {
   border: 1px solid black;
   border-collapse: collapse;
   padding: 10px;
+
+}
+
+img.gambar {
+  width: 2%;
+  height: 2%;
 }
