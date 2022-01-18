@@ -57,7 +57,7 @@ h3 {
 .container-5 {
   background-color: transparent;
   padding: 0.3em;
-  margin: 3px 1px 5px 1px;
+  margin: 5px 1px 5px 1px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -150,6 +150,19 @@ body {
 
 }
 
+.img-container2 img {
+  width: 100%;
+  height: 100%;
+
+}
+
+.img-container2 {
+  width: 13%;
+  height: 13%;
+  padding: 1em;
+
+}
+
 .image-header {
   width: 100%;
   height: auto;
@@ -184,6 +197,7 @@ body {
 .ref-link {
   color: aqua;
   text-decoration-line: none;
+  text-align: justify;
 }
 
 .butt-ref {
