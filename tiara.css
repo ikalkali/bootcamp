@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.container0 {
+    background-color: #9c03a1;
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    
+}
+.container2{
+    height: 0px;
+    width: 100%;
+}
+.container1{
+    width: 95%;
+    height: 100%;
+    margin: auto;
+}
+.containerheadline{
+    background-color: #ff9c07;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+}
+
+.container3{
+    width: 100%;
+    height: 300px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+}
+
+.container4{
+    height: 100%;
+    width: 70%;
+    background-color: #ff9c07;
+}
+.container5{
+    height: 100%;
+    width: 35%;
+    align-items:flex-end;
+    background-color: #a5a58d;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #ff9c07;
+    
+}
+.teksheading{
+    margin-top: 25px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size:larger;
+}
+.teksheading1{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size:small;
+    text-align: justify;
+}
+.part{
+    width: 5%;
+    height: 100%;
+    background-color: #970778
+    
+}
+.part1{
+    width: 5%;
+    height: 100%;
+    background-color: #da0101
+    
+}
+.part2{
+    width: 5%;
+    height: 100%;
+    background-color: #087a17
+    
+}
+.part3{
+    width: 5%;
+    height: 100%;
+    background-color: #0149e4
+    
+}
+
+.img-icl img {
+    width: 100%;
+    height: 100%;
+    border-radius: 80px
+  
+  }
+  
+  .img-icl {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    
+  }
+  
+  .image-header {
+    width: 100%;
+    height: auto;
+    margin-right: auto;
+  }
+
+  .img-asis img {
+    width: 100%;
+    height: 100%;
+  
+  }
+  
+  .img-asis {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+  
+  }
+
+  .img-joy1 img {
+    width: 70%;
+    height: 100%;
+  
+  }
+  
+  .img-joy1 {
+    width: 150%;
+    height: 75%;
+    margin: 0px;
+  
+  }
+  
+  .img-joy2 img {
+    width: 100%;
+    height: 100%;
+  
+  }
+  
+  .img-joy2 {
+    width:100%;
+    height: 100%;
+    margin: 0px;
+  
+  }
